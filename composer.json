@@ -22,11 +22,11 @@
     ],
     "require": {
         "php": "^7.2|^8.0",
-        "honeybadger-io/honeybadger-php": "^2.8.2",
+        "honeybadger-io/honeybadger-php": "dev-php_82",
         "sixlive/dotenv-editor": "^1.1|^2.0",
-        "illuminate/console": "^7.0|^8.0|^9.0",
-        "illuminate/support": "^7.0|^8.0|^9.0",
-        "monolog/monolog": "^2.0",
+        "illuminate/console": "^7.0|^8.0|^9.0"|10.0,
+        "illuminate/support": "^7.0|^8.0|^9.0|10.0",
+        "monolog/monolog": "^2.0|^3.0",
         "ext-json": "*"
     },
     "require-dev": {
